@@ -54,13 +54,13 @@ The system uses a **voltage divider circuit** to scale down the 12V battery volt
 
 ## Expected LCD Output
 
-  Voltage (V)         LCD Status     
-  > 14.8             Status: HIGH   
-  14.4 – 14.8        Status: CHARGING 
-  13.8 – 14.3        Status: GOOD   
-  12.6 – 13.7        Status: OK     
-  11.5 – 12.5        Status: LOW    
-  < 11.5             Status: CRITICAL 
+  Voltage (V)     --    LCD Status     
+  > 14.8          --    Status: HIGH   
+  14.4 – 14.8     --    Status: CHARGING 
+  13.8 – 14.3     --    Status: GOOD   
+  12.6 – 13.7     --    Status: OK     
+  11.5 – 12.5     --    Status: LOW    
+  < 11.5          --    Status: CRITICAL 
 
 
 
